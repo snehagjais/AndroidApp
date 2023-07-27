@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/parentLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:scrollbars="vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/questionText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="lato"
+                android:letterSpacing="0.1"
+                android:lineSpacingExtra="4dp"
+                android:lineSpacingMultiplier="1.2"
+                android:textColor="@color/black"
+                android:textSize="16dp"></TextView>
+
+            <EditText
+                android:id="@+id/answerText"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginBottom="40dp"
+                android:layout_marginTop="20dp"
+                android:layout_below="@+id/questionText"
+                android:textColor="@color/black"
+                android:ems="10"
+                android:enabled="true"
+                android:inputType="text"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/resultText"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/answerText"
+                android:layout_margin="10dp"
+                android:textSize="16dp"
+                android:lineSpacingExtra="4dp"
+                android:lineSpacingMultiplier="1.2"
+                android:letterSpacing="0.1"
+                android:fontFamily="lato"
+                android:visibility="gone"
+                android:layout_marginBottom="40dp"
+                android:textColor="@color/black">
+            </TextView>
+
+            <RadioGroup
+                android:id="@+id/optionGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/questionText"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp">
+
+                <RadioButton
+                    android:id="@+id/option1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:onClick="checkAndShowResult"></RadioButton>
+
+                <RadioButton
+                    android:id="@+id/option2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:onClick="checkAndShowResult"></RadioButton>
+
+                <RadioButton
+                    android:id="@+id/option3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:onClick="checkAndShowResult"></RadioButton>
+
+                <RadioButton
+                    android:id="@+id/option4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:onClick="checkAndShowResult"></RadioButton>
+            </RadioGroup>
+        </RelativeLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <Button
+            android:id="@+id/btnSubmit"
+            android:layout_width="156dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginTop="20dp"
+            android:onClick="moveToNextQuestion"
+            android:layout_weight="@integer/material_motion_duration_short_2"
+            android:text="Next"></Button>
+
+        <Button
+            android:id="@+id/timerBtn"
+            android:layout_width="172dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginLeft="70pt"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/purple_700"
+            android:layout_weight="@integer/material_motion_duration_short_2"
+            android:text="00:00"></Button>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

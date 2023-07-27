@@ -1,0 +1,1525 @@
+[{
+	"questionId": 1,
+	"questionText": "The digit in the unit\u0027s place of the number represented by (7\u2079\u2075 - 7\u2075\u2078) is",
+	"option1": "0",
+	"option2": "4",
+	"option3": "6",
+	"option4": "7",
+	"correctAnswer": "4"
+}, {
+	"questionId": 2,
+	"questionText": "The HCF of 9/10,12/25,18/35,21/40 is",
+	"option1": "3/5",
+	"option2": "252/5",
+	"option3": "63/700",
+	"option4": "3/1400",
+	"correctAnswer": "3/1400"
+}, {
+	"questionId": 3,
+	"questionText": "The value of (25.732\u00b2 - 15.732\u00b2) is",
+	"option1": "4.1464",
+	"option2": "41.464",
+	"option3": "414.64",
+	"option4": "4146.4",
+	"correctAnswer": "414.64"
+}, {
+	"questionId": 4,
+	"questionText": "A train starts full of passengers. At the first station, it drops one third of passengers and takes 280 more. At the second station, it drops one half of the new total and takes 12 more. On arriving at the third station, it is found to have 248 passengers The number of passengers in the beginning was",
+	"option1": "156",
+	"option2": "288",
+	"option3": "564",
+	"option4": "608",
+	"correctAnswer": "288"
+}, {
+	"questionId": 5,
+	"questionText": "The value of (1/√9−√8 - 1/√8−√7 + 1/√7−√6 - 1/√6−√5 + 1/√5−√4) is",
+	"option1": "1/5",
+	"option2": "0",
+	"option3": "1",
+	"option4": "5",
+	"correctAnswer": "5"
+}, {
+	"questionId": 6,
+	"questionText": "In a cricket team of 11 players, the average age is 28 years. Out of these, the average ages of three groups of three players each are 25 years, 28 years and 30 years respectively. If in these groups, the captain and the youngest player are not included and the captain is eleven years older than the younger player, then the age of the captain is",
+	"option1": "33 years",
+	"option2": "34 years",
+	"option3": "35 years",
+	"option4": "36 years",
+	"correctAnswer": "35 years"
+}, {
+	"questionId": 7,
+	"questionText": "A member consists of two digits whose sum is 8. If 18 is added to the number, its digits are interchanged. The number is",
+	"option1": "26",
+	"option2": "35",
+	"option3": "53",
+	"option4": "62",
+	"correctAnswer": "35"
+}, {
+	"questionId": 8,
+	"questionText": "4/7 of a pole is in the mud. When 1/3 of it is pulled out, 250cm of the pole is still in the mud. The length of the pole is",
+	"option1": "1050 cm",
+	"option2": "1350 cm",
+	"option3": "437.5 cm",
+	"option4": "750 cm",
+	"correctAnswer": "1050 cm"
+}, {
+	"questionId": 9,
+	"questionText": "If 2x \u003d 3y \u003d 6−z, then (1/x+1/y+1/z)  is equal to",
+	"option1": "0",
+	"option2": "1",
+	"option3": "2",
+	"option4": "4",
+	"correctAnswer": "0"
+}, {
+	"questionId": 10,
+	"questionText": "A candidate scoring 25% marks in an examination fails by 30 marks while another candidate who score 50% marks gets 20 marks more than those required to pass. The pass percentage is",
+	"option1": "30%",
+	"option2": "33%",
+	"option3": "35%",
+	"option4": "40%",
+	"correctAnswer": "40%"
+}, {
+	"questionId": 11,
+	"questionText": "A dishonest dealer professes to sell his goods at cost price. But he uses a false weight and thus gains 6 18/47%. For a kg, he uses a weight of",
+	"option1": "940 g",
+	"option2": "947 g",
+	"option3": "953 g",
+	"option4": "960 g",
+	"correctAnswer": "940 g"
+}, {
+	"questionId": 12,
+	"questionText": "Harish divides two sums of money among his four sons Naresh, Vipin, Bhupesh, and Yogesh. The first sum is divided in the ratio 4 : 3 : 2 : 1 and second in the ratio 5 : 6 : 7 : 8. If the second sum is twice the first, then the largest total is received by",
+	"option1": "Bhupesh",
+	"option2": "Naresh",
+	"option3": "Vipin",
+	"option4": "Yogesh",
+	"correctAnswer": "Naresh"
+}, {
+	"questionId": 13,
+	"questionText": "A is working, and B a sleeping partner in a business. A puts in Rs.12000 and B Rs. 20000. A received 10% of the profit for managing, the rest being divided in proportion to their capitals. Out of a total profit of Rs. 9600, the money received by A will be",
+	"option1": "Rs. 3240",
+	"option2": "Rs. 3600",
+	"option3": "Rs. 4200",
+	"option4": "Rs. 4840",
+	"correctAnswer": "Rs. 4200"
+}, {
+	"questionId": 14,
+	"questionText": "A contractor undertakes to do a piece of work in 40 days. He engages 100 men at the beginning and 100 more after 35 days and completes the work in stipulated time. If he had not engaged the additional men, how many days behind schedule would it be finished?",
+	"option1": "3",
+	"option2": "5",
+	"option3": "6",
+	"option4": "8",
+	"correctAnswer": "5"
+}, {
+	"questionId": 15,
+	"questionText": "4 men and 6 women finish a job in 8 days, while 3 men and 7 women finish it in 10 days. In how many days will 10 women finish it?",
+	"option1": "24",
+	"option2": "32",
+	"option3": "36",
+	"option4": "40",
+	"correctAnswer": "40"
+}, {
+	"questionId": 16,
+	"questionText": "A pump can be operated both for filling a tank and for emptying it. The capacity of tank is 2400 m3. The emptying capacity of the pump is 10 m3 per minute higher than its filling capacity. Consequently, the pump needs 8 minutes less to empty the tank as to fill it. The filling capacity of pump is",
+	"option1": "40 m3/minute",
+	"option2": "50 m3/minute",
+	"option3": "60 m3/minute",
+	"option4": "80 m3/minute",
+	"correctAnswer": "50 m3/minute"
+}, {
+	"questionId": 17,
+	"questionText": "A boy covers a certain distance on a toy train. If the train moved 4 kmph faster, it would take 30 minutes less. If it moved 2 kmph slower, it would have taken 20 minutes more. The distance is",
+	"option1": "40 km",
+	"option2": "50 km",
+	"option3": "60 km",
+	"option4": "80 km",
+	"correctAnswer": "60 km"
+}, {
+	"questionId": 18,
+	"questionText": "A train with 90 kmph crosses a bridge in 36 s. Another train 100 m shorter crosses the same bridge at 45 kmph. The time taken by the second train to cross the bridge will be",
+	"option1": "60 s",
+	"option2": "64 s",
+	"option3": "68 s",
+	"option4": "72 s",
+	"correctAnswer": "64 s"
+}, {
+	"questionId": 19,
+	"questionText": "A man rows 20 km upstream and back again to the starting point in 110 minutes. If the speed of stream is 2 kmph, then the speed of rowing in still water is",
+	"option1": "20 kmph",
+	"option2": "22 kmph",
+	"option3": "24 kmph",
+	"option4": "28 kmph",
+	"correctAnswer": "22 kmph"
+}, {
+	"questionId": 20,
+	"questionText": "A mixture of alcohol and water contains 35% alcohol by weight. if 25 g water is added to such a mixture of 100 g, then the percentage of alcohol in the mixture is",
+	"option1": "25%",
+	"option2": "28%",
+	"option3": "30%",
+	"option4": "32%",
+	"correctAnswer": "28%"
+}, {
+	"questionId": 21,
+	"questionText": "A man pays 40 times the annual rent to purchase a building. The rate % per annum he derives from his investment is",
+	"option1": "2.5%",
+	"option2": "3.33%",
+	"option3": "4.0%",
+	"option4": "6.67%",
+	"correctAnswer": "2.5%"
+}, {
+	"questionId": 22,
+	"questionText": "A certain sum is lent at a certain rate of compound interest. It grows to 1.44 times its value in 2 years. If the same sum is lent at simple interest at the same rate, in how many years would it double itself?",
+	"option1": "3 years",
+	"option2": "4 years",
+	"option3": "5 years",
+	"option4": "6 years",
+	"correctAnswer": "5 years"
+}, {
+	"questionId": 23,
+	"questionText": "In a rhombus, the length of the two diagonals are 40m and 30m respectively. Its perimeter will be",
+	"option1": "100 m",
+	"option2": "70 m",
+	"option3": "80 m",
+	"option4": "90 m",
+	"correctAnswer": "100 m"
+}, {
+	"questionId": 24,
+	"questionText": "The length of canvas 1.1 m wide required to build a conical tent of height 14m and the floor area 346.5m2 is",
+	"option1": "490 m",
+	"option2": "525 m",
+	"option3": "665 m",
+	"option4": "860 m",
+	"correctAnswer": "525 m"
+}, {
+	"questionId": 25,
+	"questionText": "One cubic meter of iron weighs 7.800 kg. The weight of iron in a pipe of length 4 m, whose interior and exterior diameters measure 10 cm and 12 cm respectively, is nearly",
+	"option1": "108 kg",
+	"option2": "118 kg",
+	"option3": "78 kg",
+	"option4": "88 kg",
+	"correctAnswer": "by NTA, Correct Answer is 0.4312 kgs"
+}, {
+	"questionId": 26,
+	"questionText": "In a flat race, A beats B by 15 m and C by 29 m. When B and C run over the same course together, B wins by 15 m. The length of the course is",
+	"option1": "250 m",
+	"option2": "200 m",
+	"option3": "225 m",
+	"option4": "275 m",
+	"correctAnswer": "225 m"
+}, {
+	"questionId": 27,
+	"questionText": "At what angle the hands of a clock are inclined at 15 minutes past 5 ?",
+	"option1": "72\n1\n2\n∘",
+	"option2": "67\n1\n2\n∘",
+	"option3": "64°",
+	"option4": "58\n1\n2\n∘",
+	"correctAnswer": "67"
+}, {
+	"questionId": 28,
+	"questionText": "The odd term out in the series 15, 16, 34, 105, 424, 2124, 12756 is",
+	"option1": "105",
+	"option2": "16",
+	"option3": "2124",
+	"option4": "34",
+	"correctAnswer": "2124"
+}, {
+	"questionId": 29,
+	"questionText": "ABC is right angled triangle at C. Let BC \u003d a, CA \u003d b and AC \u003d c and let p be the length of perpendicular from C on AB, then cp is equal to",
+	"option1": "a + b",
+	"option2": "ab",
+	"option3": "ac",
+	"option4": "bc",
+	"correctAnswer": "ab"
+}, {
+	"questionId": 30,
+	"questionText": "The radius of two concentric circles are 13 cm and 8 cm. AB is a diameter of the bigger circle. BD is tangent to the smaller circle touching it at D. The length AD is.",
+	"option1": "15 cm",
+	"option2": "17 cm",
+	"option3": "19 cm",
+	"option4": "21 cm",
+	"correctAnswer": "19 cm"
+}, {
+	"questionId": 31,
+	"questionText": "The minimum value of ( 2 sin2θ + 3 cos2θ)  is",
+	"option1": "0",
+	"option2": "1",
+	"option3": "2",
+	"option4": "3",
+	"correctAnswer": "2"
+}, {
+	"questionId": 32,
+	"questionText": "If the mth  term of an arithmetic progression is1nand nth term is1m, then mnth term of this progression will be",
+	"option1": "1\nmn",
+	"option2": "m\nn",
+	"option3": "n\nm",
+	"option4": "1",
+	"correctAnswer": "1"
+}, {
+	"questionId": 33,
+	"questionText": "If points (t, 2t), (–2, 6) and (3, 1) are collinear, then t is equal to",
+	"option1": "3\n4",
+	"option2": "4\n3",
+	"option3": "3\n5",
+	"option4": "5\n3",
+	"correctAnswer": "4"
+}, {
+	"questionId": 34,
+	"questionText": "If log(x2)y+log(y2)x\u003d1and y\u003dx2−30, then the value of x2+y2is ___________.",
+	"correctAnswer": "72"
+}, {
+	"questionId": 35,
+	"questionText": "The area enclosed by 2|x|+3|y|≤6is ____________ sq. units.",
+	"correctAnswer": "12"
+}, {
+	"questionId": 36,
+	"questionText": "When Geeta increases her speed from 12km/hrto 20km/hr, she takes one hour less than the usual time to cover the distance between her home and office. The distance between her home and office is ___________ km.",
+	"correctAnswer": "30"
+}, {
+	"questionId": 37,
+	"questionText": "The number of triangles that can be formed by choosing points from 7 points on a line and 5 points on another parallel line is _________.",
+	"correctAnswer": "175"
+}, {
+	"questionId": 38,
+	"questionText": "Aruna purchases a certain number of apples for INR 20 each and a certain number of mangoes for INR 25 each. If she sells all the apples at 10%profit and all the mangoes at 20%loss, overall she makes neither profit nor loss. Instead, if she sells all the apples at 20%loss and all the mangoes at 10%profit, overall she makes a loss of INR 150 . Then the number of apples purchased by Aruna is _________.",
+	"correctAnswer": "50"
+}, {
+	"questionId": 39,
+	"questionText": "Given that f(x)\u003d|x|+2|x−1|+|x−2|+|x−4|+|x−6|+2|x−10|,x∈(−∞,∞)the minimum value of f(x)is _________.",
+	"correctAnswer": "26"
+}, {
+	"questionId": 40,
+	"questionText": "If A\u003d[1 0 00 0 10 1 0], then the absolute value of the determinant of (A9+A6+A3+A)is __________.",
+	"correctAnswer": "32"
+}, {
+	"questionId": 41,
+	"questionText": "The sum of the coefficients of all the terms in the expansion of (5x−9)4is __________.",
+	"correctAnswer": "256"
+}, {
+	"questionId": 42,
+	"questionText": "A new sequence is obtained from the sequence of positive integers (1,2,3,…)by deleting all the perfect squares. Then the 2022nd term of the new sequence is ________.",
+	"correctAnswer": "2067"
+}, {
+	"questionId": 43,
+	"questionText": "If sinα+sinβ\u003d√2√3and cosα+cosβ\u003d1√3, then the value of (20cos(α−β2))2is _________.",
+	"correctAnswer": "100"
+}, {
+	"questionId": 44,
+	"questionText": "The 3rd ,14th and 69th terms of an arithmetic progression form three distinct and consecutive terms of a geometric progression. If the next term of the geometric progression is the nth term of the arithmetic progression, then nequals ________.",
+	"correctAnswer": "344"
+}, {
+	"questionId": 45,
+	"questionText": "Let P(X)denote power set of a set X. If Ais the null set, then the number of elements in P(P(P(P(A))))is _________.",
+	"correctAnswer": "16"
+}, {
+	"questionId": 46,
+	"questionText": "The numbers −16,2x+3−22x−1−16,22x−1+16are in an arithmetic progression. Then xequals ________.",
+	"correctAnswer": "3"
+}, {
+	"questionId": 47,
+	"questionText": "Mrs and Mr Sharma, and Mrs and Mr Ahuja along with four other persons are to be seated at a round table for dinner. If Mrs and Mr Sharma are to be seated next to each other, and Mrs and Mr Ahuja are not to be seated next to each other, then the total number of seating arrangements is _________.",
+	"correctAnswer": "960"
+}, {
+	"questionId": 48,
+	"questionText": "Let 50 distinct positive integers be chosen such that the highest among them is 100 , and the average of the largest 25 integers among them exceeds the average of the remaining integers by 50 . Then the maximum possible value of the sum of all the 50 integers is _________.",
+	"correctAnswer": "3150"
+}, {
+	"questionId": 49,
+	"questionText": "The set of real values of xfor which the inequality log278≤log3x\u003c91log23holds is",
+	"option1": "[2,81)",
+	"option2": "(2,27)",
+	"option3": "[2,81]",
+	"option4": "(2,27]",
+	"correctAnswer": "[2,81)"
+}, {
+	"questionId": 50,
+	"questionText": "The set of all possible values of f(x)for which (81)x+(81)f(x)\u003d3is",
+	"option1": "(0.25,3)",
+	"option2": "(−∞,4)",
+	"option3": "(−∞,0.25)",
+	"option4": "(3,4)",
+	"correctAnswer": "(−∞,0.25)"
+}, {
+	"questionId": 51,
+	"questionText": "The value of kfor which the following linesx−y−1\u003d02x+3y−12\u003d02x−3y+k\u003d0are concurrent is",
+	"option1": "1",
+	"option2": "-1",
+	"option3": "0",
+	"option4": "12",
+	"correctAnswer": "0"
+}, {
+	"questionId": 52,
+	"questionText": "The lengths of the sides of a triangle are x,21and 40 , where xis the shortest side. A possible value of xis",
+	"option1": "18",
+	"option2": "20",
+	"option3": "19",
+	"option4": "16",
+	"correctAnswer": "20"
+}, {
+	"questionId": 53,
+	"questionText": "In a right-angled triangle ABC, the hypotenuse AC is of length 13 cm. A line drawn connecting the midpoints D and E of sides AB and AC is found to be 6 cm in length. The length of BC is",
+	"option1": "12 cm",
+	"option2": "5 cm",
+	"option3": "2\n√\n3\ncm",
+	"option4": "8 cm",
+	"correctAnswer": "12 cm"
+}, {
+	"questionId": 54,
+	"questionText": "If the five-digit number abcde is divisible by 6 , then which of the following numbers is not necessarily divisible by 6 ?",
+	"option1": "edcba",
+	"option2": "eee",
+	"option3": "bbadcacede",
+	"option4": "cdbae",
+	"correctAnswer": "edcba"
+}, {
+	"questionId": 55,
+	"questionText": "In how many ways can the letters of the word MANAGEMENT be arranged such that no two vowels appear together?",
+	"option1": "75600",
+	"option2": "25200",
+	"option3": "37800",
+	"option4": "21600",
+	"correctAnswer": "37800"
+}, {
+	"questionId": 56,
+	"questionText": "In a room, there are npersons whose average height is 160cm. If mmore persons, whose average height is 172cm, enter the room, then the average height of all persons in the room becomes 164cm. Then m:nis",
+	"option1": "1 : 2",
+	"option2": "1 : 3",
+	"option3": "3 : 1",
+	"option4": "2 : 1",
+	"correctAnswer": "1 : 2"
+}, {
+	"questionId": 57,
+	"questionText": "The sum of the first 15 terms in an arithmetic progression is 200 , while the sum of the next 15 terms is 350 . Then the common difference is",
+	"option1": "7\n9",
+	"option2": "2\n3",
+	"option3": "4\n9",
+	"option4": "1\n3",
+	"correctAnswer": "2"
+}, {
+	"questionId": 58,
+	"questionText": "Suppose a,band care integers such that a\u003eb\u003ec\u003e0, and A\u003d[a b cb c ac a b]. Then the value of the determinant of A",
+	"option1": "can be positive or negative",
+	"option2": "is positive",
+	"option3": "is negative",
+	"option4": "is zero",
+	"correctAnswer": "is negative"
+}, {
+	"questionId": 59,
+	"questionText": "If A\u003d[1 0120]then A2022is",
+	"option1": "None of these",
+	"option2": "[\n1 0\n1011 0\n]",
+	"option3": "[\n1 0\n2022 0\n]",
+	"option4": "[\n1 0\n1\n22022\n0\n]",
+	"correctAnswer": "["
+}, {
+	"questionId": 60,
+	"questionText": "For 0\u003cθ\u003cπ4, let a\u003d((sinθ)sinθ)(log2cosθ),b\u003d((cosθ)sinθ)(log2sinθ), c\u003d((sinθ)cosθ)(log2cosθ)and d\u003d((sinθ)sinθ)(log2sinθ). Then, the median value in the sequence a,b,c,dis",
+	"option1": "a+b\n2",
+	"option2": "a+d\n2",
+	"option3": "b+c\n2",
+	"option4": "c+d\n2",
+	"correctAnswer": "a+d"
+}, {
+	"questionId": 61,
+	"questionText": "Let A\u003d{1,2,3}and B\u003d{a,b}. Assuming all relations from set Ato set Bare equally likely, what is the probability that a relation from Ato Bis also a function?",
+	"option1": "1\n8",
+	"option2": "1\n2",
+	"option3": "1",
+	"option4": "32\n26",
+	"correctAnswer": "1"
+}, {
+	"questionId": 62,
+	"questionText": "In a 400-metre race, Ashok beats Bipin and Chandan respectively by 15 seconds and 25 seconds. If Ashok beats Bipin by 150 metres, by how many metres does Bipin beat Chandan in the race?",
+	"option1": "80",
+	"option2": "100",
+	"option3": "150",
+	"option4": "50",
+	"correctAnswer": "80"
+}, {
+	"questionId": 63,
+	"questionText": "In a bowl containing 60 ml orange juice, 40 ml of water is poured. Thereafter, 100 ml of apple juice is poured to make a fruit punch. Madhu drinks 50 ml of this fruit punch and comments that the proportion of orange juice needs to be higher for better taste. How much orange juice should be poured into the fruit punch that remained, in order to bring up the level of orange juice to 50 percentage?",
+	"option1": "100 ml",
+	"option2": "40 ml",
+	"option3": "80 ml",
+	"option4": "60 ml",
+	"correctAnswer": "60 ml"
+}, {
+	"questionId": 64,
+	"questionText": "The curve represented by the equationx2sin√2−sin√3+y2cos√2−cos√3\u003d1is",
+	"option1": "an ellipse with the foci on the y-axis",
+	"option2": "an ellipse with the foci on the x-axis",
+	"option3": "a hyperbola with the foci on the x-axis",
+	"option4": "a hyperbola with the foci on the y-axis",
+	"correctAnswer": "an ellipse with the foci on the y-axis"
+}, {
+	"questionId": 65,
+	"questionText": "A set of all possible values the function f(x)\u003dx|x|, where x≠0, takes is",
+	"option1": "{1}",
+	"option2": "{1,−1}",
+	"option3": "{1,0}",
+	"option4": "{1,0,−1}",
+	"correctAnswer": "{1,−1}"
+}, {
+	"questionId": 66,
+	"questionText": "When the square of the difference of two natural numbers is subtracted from the square of the sum of the same two numbers and the result is divided by four, we get",
+	"option1": "the product of the LCM and HCF of the two numbers",
+	"option2": "the HCF of the two numbers",
+	"option3": "the LCM of the two numbers",
+	"option4": "the square of the product of the two numbers",
+	"correctAnswer": "the product of the LCM and HCF of the two numbers"
+}, {
+	"questionId": 67,
+	"questionText": "The cost of a piece of jewellery is proportional to the square of its weight. A piece of jewellery weighing 10 grams is INR 3600. The cost of a piece of jewellery of the same kind weighing 4 grams is",
+	"option1": "INR 1220",
+	"option2": "INR 600",
+	"option3": "INR 576",
+	"option4": "INR 1440",
+	"correctAnswer": "INR 576"
+}, {
+	"questionId": 68,
+	"questionText": "The sum of the squares of all the roots of the equation x2+|x+4|+|x−4|−35\u003d0is",
+	"option1": "74",
+	"option2": "175",
+	"option3": "50",
+	"option4": "148",
+	"correctAnswer": "50"
+}, {
+	"questionId": 69,
+	"questionText": "Let Aand Bbe two sets such that the Cartesian product A×Bconsists of four elements. If two elements of A×Bare (1,4)and (4,1), then",
+	"option1": "None of these",
+	"option2": "A×B≠B×A",
+	"option3": "∅∈A×B",
+	"option4": "A×B\u003dB×A",
+	"correctAnswer": "A×B\u003dB×A"
+}, {
+	"questionId": 70,
+	"questionText": "If f(x2+f(y))\u003dxf(x)+yfor all non-negative integers xand y, then the value of [f(0)]2+f(0)equals _________.",
+	"option1": "2",
+	"option2": "0",
+	"option3": "6",
+	"option4": "1",
+	"correctAnswer": "0"
+}, {
+	"questionId": 71,
+	"questionText": "If one of the factors of the number 3728173is randomly chosen, then the probability that the chosen factor will be a perfect square is",
+	"option1": "5\n36",
+	"option2": "1\n12",
+	"option3": "3\n40",
+	"option4": "5\n32",
+	"correctAnswer": "5"
+}, {
+	"questionId": 72,
+	"questionText": "The number of four-digit integers which are greater than 1000 and divisible by both 2 and 3, but not by 5, is",
+	"option1": "1333",
+	"option2": "1666",
+	"option3": "1200",
+	"option4": "1500",
+	"correctAnswer": "1200"
+}, {
+	"questionId": 73,
+	"questionText": "Ayesha is standing atop a vertical tower 200mhigh and observes a car moving away from the tower on a straight, horizontal road from the foot of the tower. At 11:00 AM, she observes the angle of depression of the car to be 45∘. At 11:02 AM, she observes the angle of depression of the car to be 30∘. The speed at which the car is moving is approximately",
+	"option1": "6.3 km per hour",
+	"option2": "8.45 km per hour",
+	"option3": "10.6 km per hour",
+	"option4": "4.39 km per hour",
+	"correctAnswer": "4.39 km per hour"
+}, {
+	"questionId": 74,
+	"questionText": "Number of days Bhabha and Cathy work together in a week is",
+	"option1": "0",
+	"option2": "1",
+	"option3": "3",
+	"option4": "2",
+	"correctAnswer": "2"
+}, {
+	"questionId": 75,
+	"questionText": "Which among the following employees do not work together on any of the days?",
+	"option1": "Bhabha and Dilip",
+	"option2": "Bhabha and Ethan",
+	"option3": "Cathy and Dilip",
+	"option4": "Dilip and Ethan",
+	"correctAnswer": "Dilip and Ethan"
+}, {
+	"questionId": 76,
+	"questionText": "One of the days Alex works on is",
+	"option1": "Monday",
+	"option2": "Friday",
+	"option3": "Sunday",
+	"option4": "Saturday",
+	"correctAnswer": "Saturday"
+}, {
+	"questionId": 77,
+	"questionText": "The consecutive days on which Ethan works are",
+	"option1": "Thursday and Friday",
+	"option2": "Saturday and Sunday",
+	"option3": "Friday and Saturday",
+	"option4": "Sunday and Monday",
+	"correctAnswer": "Friday and Saturday"
+}, {
+	"questionId": 78,
+	"questionText": "Employees who work on Sunday are",
+	"option1": "Bhabha, Cathy and Dilip",
+	"option2": "Bhabha, Cathy and Ethan",
+	"option3": "Alex, Dilip and Ethan",
+	"option4": "Cathy, Dilip and Ethan",
+	"correctAnswer": "Bhabha, Cathy and Dilip"
+}, {
+	"questionId": 79,
+	"questionText": "The number of positive integers that divide (1890).(130).(170) and are not divisible by 45 is ________",
+	"correctAnswer": "320"
+}, {
+	"questionId": 80,
+	"questionText": "The sum up to 10 terms of the series 1.3 + 5.7 + 9.11 + . . is",
+	"correctAnswer": "5310"
+}, {
+	"questionId": 81,
+	"questionText": "It is given that the sequence {xn} satisfies x1 \u003d 0, xn+1 \u003d xn + 1 + 2√(1+xn) for n \u003d 1,2, . . . . . Then x31 is _______",
+	"correctAnswer": "960"
+}, {
+	"questionId": 82,
+	"questionText": "There are 5 parallel lines on the plane. On the same plane, there are ‘n’ other lines that are perpendicular to the 5 parallel lines. If the number of distinct rectangles formed by these lines is 360, what is the value of n?",
+	"correctAnswer": "9"
+}, {
+	"questionId": 83,
+	"questionText": "There are two taps, T1 and T2, at the bottom of a water tank, either or both of which may be opened to empty the water tank, each at a constant rate. If T1 is opened keeping T1 closed, the water tank (initially full) becomes empty in half an hour. If both T1 and T2 are kept open, the water tank (initially full) becomes empty in 20 minutes. Then, the time (in minutes) it takes for the water tank (initially full) to become empty if T2 is opened while T1 is closed is",
+	"correctAnswer": "60"
+}, {
+	"questionId": 84,
+	"questionText": "A class consists of 30 students. Each of them has registered for 5 courses. Each course instructor conducts an exam out of 200 marks. The average percentage marks of all 30 students across all courses they have registered for, is 80%. Two of them apply for revaluation in a course. If none of their marks reduce, and the average of all 30 students across all courses becomes 80.02%, the maximum possible increase in marks for either of the 2 students is",
+	"correctAnswer": "6"
+}, {
+	"questionId": 85,
+	"questionText": "What is the minimum number of weights which enable us to weigh any integer number of grams of gold from 1 to 100 on a standard balance with two pans? (Weights can be placed only on the left pan)",
+	"correctAnswer": "7"
+}, {
+	"questionId": 86,
+	"questionText": "If one of the lines given by the equation 2𝑥2 + axy + 3y2 \u003d 0 coincides with one of those given by 2x2 + b𝑥𝑦 - 3𝑦2 \u003d 0 and the other lines represented by them are perpendicular then 𝑎2 + 𝑏2 \u003d",
+	"correctAnswer": ""
+}, {
+	"questionId": 87,
+	"questionText": "If a function f(a) \u003d max (a, 0) then the smallest integer value of ‘x’ for which the equation f(x - 3) + 2f(x + 1) \u003d 8 holds true is _______",
+	"correctAnswer": "3"
+}, {
+	"questionId": 88,
+	"questionText": "In a class, 60% and 68% of students passed their Physics and Mathematics examinations respectively. Then atleast ________ percentage of students passed both their Physics and Mathematics examinations.",
+	"correctAnswer": "28"
+}, {
+	"questionId": 89,
+	"questionText": "Suppose that a real-valued function f(x) of real numbers satisfies f(x + xy) \u003d f(x) + f(xy) for all real x, y, and that f(2020) \u003d 1. Compute f(2021).",
+	"option1": "2021\n2020",
+	"option2": "2020\n2019",
+	"option3": "1",
+	"option4": "2020\n2021",
+	"correctAnswer": "2021"
+}, {
+	"questionId": 90,
+	"questionText": "Suppose that log2[log3 (log4a)] \u003d log3 [log4 (log2b)] \u003d log4 [log2 (log3c)] \u003d 0 then the value of a + b + c is",
+	"option1": "105",
+	"option2": "71",
+	"option3": "89",
+	"option4": "37",
+	"correctAnswer": "89"
+}, {
+	"questionId": 91,
+	"questionText": "Let Sn be sum of the first n terms of an A.P. {an }. If S5 \u003d S9 , what is the ratio of a3 : a5",
+	"option1": "9:5",
+	"option2": "5:9",
+	"option3": "3:5",
+	"option4": "5:3",
+	"correctAnswer": "9:5"
+}, {
+	"questionId": 92,
+	"questionText": "If A, B and A + B are non singular matrices and AB \u003d BA then2A - B - A(A + B)-1A + B(A + B)-1B equals",
+	"option1": "A",
+	"option2": "B",
+	"option3": "A + B",
+	"option4": "I",
+	"correctAnswer": "I"
+}, {
+	"questionId": 93,
+	"questionText": "If the angles A, B, C of a triangle are in arithmetic progression such that sin(2A + B) \u003d 1/2 then sin(B + 2C) is equal to",
+	"option1": "−1\n2",
+	"option2": "1\n2\n ",
+	"option3": "−1\n2\n√",
+	"option4": "3\n2\n√",
+	"correctAnswer": "−1"
+}, {
+	"questionId": 94,
+	"questionText": "The unit digit in (743)85 – (525)37 + (987)96 is ________",
+	"option1": "9",
+	"option2": "3",
+	"option3": "1",
+	"option4": "5",
+	"correctAnswer": "9"
+}, {
+	"questionId": 95,
+	"questionText": "The set of all real value of p for which the equation 3 sin2x + 12 cos x – 3 \u003d p has one solution is",
+	"option1": "[-12, 12]",
+	"option2": "[-12, 9]",
+	"option3": "[-15, 9]",
+	"option4": "[-15, 12]",
+	"correctAnswer": "[-15, 12]"
+}, {
+	"questionId": 96,
+	"questionText": "ABCD is a quadrilateral whose diagonals AC and BD intersect at O. If triangles AOB and COD have areas 4 and 9 respectively, then the minimum area that ABCD can have is",
+	"option1": "26",
+	"option2": "25",
+	"option3": "21",
+	"option4": "16",
+	"correctAnswer": "25"
+}, {
+	"questionId": 97,
+	"questionText": "The highest possible value of the ratio of a four-digit number and the sum of its four digits is",
+	"option1": "1000",
+	"option2": "277.75",
+	"option3": "900.1",
+	"option4": "999",
+	"correctAnswer": "1000"
+}, {
+	"questionId": 98,
+	"questionText": "Consider the polynomials f(x) \u003d ax2 + bx + c, where a \u003e 0, b, c are real, g(x) \u003d -2x. If f(x) cuts the x-axis at (-2, 0) and g(x) passes through (a, b), then the minimum value of f(x) + 9a + 1 is",
+	"option1": "0",
+	"option2": "1",
+	"option3": "2",
+	"option4": "3",
+	"correctAnswer": "3"
+}, {
+	"questionId": 99,
+	"questionText": "In a city, 50% of the population can speak in exactly one language among Hindi, English and Tamil, while 40% of the population can speak in at least two of these three languages. Moreover, the number of people who cannot speak in any of these three languages is twice the number of people who can speak in all these three languages. If 52% of the population can speak in Hindi and 25% of the population can speak exactly in one language among English and Tamil, then the percentage of the population who can speak in Hindi and in exactly one more language among English and Tamil is",
+	"option1": "22%",
+	"option2": "25%",
+	"option3": "30%",
+	"option4": "38%",
+	"correctAnswer": "22%"
+}, {
+	"questionId": 100,
+	"questionText": "A train left point A at 12 noon. Two hours later, another train started from point A in the same direction. It overtook the first train at 8 PM. It is known that the sum of the speeds of the two trains is 140 km/hr. Then, at what time would the second train overtake the first train, if instead the second train had started from point A in the same direction 5 hours after the first train? Assume that both the trains travel at constant speeds.",
+	"option1": "3 AM the next day",
+	"option2": "4 AM the next day",
+	"option3": "8 AM the next day",
+	"option4": "11 PM the same day",
+	"correctAnswer": "8 AM the next day"
+}, {
+	"questionId": 101,
+	"questionText": "The number of 5-digit numbers consisting of distinct digits that can be formed such that only odd digits occur at odd places is",
+	"option1": "5250",
+	"option2": "6240",
+	"option3": "2520",
+	"option4": "3360",
+	"correctAnswer": "2520"
+}, {
+	"questionId": 102,
+	"questionText": "There are 10 points in the plane, of which 5 points are collinear and no three among the remaining are collinear. Then the number of distinct straight lines that can be formed out of these 10 points is",
+	"option1": "10",
+	"option2": "25",
+	"option3": "35",
+	"option4": "36",
+	"correctAnswer": "36"
+}, {
+	"questionId": 103,
+	"questionText": "The x-intercept of the line that passes through the intersection of the lines x + 2y \u003d 4 and 2x + 3y \u003d 6, and is perpendicular to the line 3x – y \u003d 2 is",
+	"option1": "2",
+	"option2": "0.5",
+	"option3": "4",
+	"option4": "6",
+	"correctAnswer": "6"
+}, {
+	"questionId": 104,
+	"questionText": "Total number of matches ending in draw is",
+	"option1": "12",
+	"option2": "4",
+	"option3": "5",
+	"option4": "6",
+	"correctAnswer": "6"
+}, {
+	"questionId": 105,
+	"questionText": "Which team has the highest number of draws",
+	"option1": "A",
+	"option2": "C",
+	"option3": "D",
+	"option4": "E",
+	"correctAnswer": "E"
+}, {
+	"questionId": 106,
+	"questionText": "Total points Team F scored was",
+	"option1": "0",
+	"option2": "1",
+	"option3": "2",
+	"option4": "3",
+	"correctAnswer": "2"
+}, {
+	"questionId": 107,
+	"questionText": "Which team was not defeated by team A",
+	"option1": "B",
+	"option2": "C",
+	"option3": "D",
+	"option4": "F",
+	"correctAnswer": "D"
+}, {
+	"questionId": 108,
+	"questionText": "Team E was defeated by",
+	"option1": "Teams A and B only",
+	"option2": "Only team A",
+	"option3": "Only team B",
+	"option4": "Teams A, B and D only",
+	"correctAnswer": "Only team B"
+}, {
+	"questionId": 109,
+	"questionText": "In a division problem, product of quotient and the remainder is 24 while their sum is 10. If the divisor is 5 then dividend is __________.",
+	"correctAnswer": "34"
+}, {
+	"questionId": 110,
+	"questionText": "The shortest distance from the point (-4,3) to the circle x2 + y2 \u003d 1 is __________.",
+	"correctAnswer": "4"
+}, {
+	"questionId": 111,
+	"questionText": "The value of 0.04log√5(14+18+116) is __________.",
+	"correctAnswer": "7"
+}, {
+	"questionId": 112,
+	"questionText": "Suppose |a a2 a3−1b b2 b3−1c c2 c3−1|\u003d 0 where a, b and c are distinct real numbers. If a\u003d 3, then the value of a b c is",
+	"correctAnswer": "1"
+}, {
+	"questionId": 113,
+	"questionText": "The minimum value of f(x)\u003d|3-x|+|2+x|+|5-x| is equal to __________.",
+	"correctAnswer": "7"
+}, {
+	"questionId": 114,
+	"questionText": "Ashok purchased pens and pencils in the ratio 2: 3 during his first visit and paid Rs. 86 to the shopkeeper. During his second visit, he purchased pens and pencils in the ratio 4: 1 and paid Rs. I 12 . The cost of a pen as well as a pencil in rupees is a positive integer. If Ashok purchased four pens during his second visit, then the amount he paid in rupees for the pens during the second visit is __________.",
+	"correctAnswer": "100"
+}, {
+	"questionId": 115,
+	"questionText": "In a four-digit number, the product of thousands digit and units digit is zero while their difference is 7. Product of the middle digits is 18 . The thousands digit is as much more than the units digit as the hundreds digit is more than the tens digit. The four-digit number is __________.",
+	"correctAnswer": "7920"
+}, {
+	"questionId": 116,
+	"questionText": "Out of 80 students who appeared for the school exams in Mathematics (M), Physics (P) and Chemistry (C), 50 passed M , 30 passed P and 40 passed C. At most 20 students passed M and P at most 20 students passed P and C and at most 20 students passed C and M. The maximum number of students who could have passed all three exams is __________.",
+	"correctAnswer": "20"
+}, {
+	"questionId": 117,
+	"questionText": "Two friends run a 3-kilometer race along a circular course of length 300 meters. If their speeds are in the ratio 3:2, the number of times the winner passes the other is __________.",
+	"correctAnswer": "3"
+}, {
+	"questionId": 118,
+	"questionText": "Out of 13 objects, 4 are indistinguishable and rest are distinct. The number of ways we can choose 4 objects out of 13 objects is __________.",
+	"correctAnswer": "256"
+}, {
+	"questionId": 119,
+	"questionText": "The probability that a randomly chosen factor of 1019 is a multiple of 1015 is",
+	"option1": "1\n25",
+	"option2": "1\n12",
+	"option3": "1\n20",
+	"option4": "1\n16",
+	"correctAnswer": "1"
+}, {
+	"questionId": 120,
+	"questionText": "The number of acute angled triangles whose sides are three consecutive positive integers and whose perimeter is at most 100 is",
+	"option1": "28",
+	"option2": "29",
+	"option3": "31",
+	"option4": "33",
+	"correctAnswer": "29"
+}, {
+	"questionId": 121,
+	"questionText": "The equation of the straight line passing through the point M (-5,1), such that the portion of it between the axes is divided by the point M in to two equal halves, is",
+	"option1": "10y - 8x \u003d 80",
+	"option2": "8y + 10x \u003d 80",
+	"option3": "10y + 8x \u003d 80",
+	"option4": "8y + 10x + 80 \u003d 0",
+	"correctAnswer": "10y - 8x \u003d 80"
+}, {
+	"questionId": 122,
+	"questionText": "The value of cos2π8+ cos23π8+ cos25π8+ cos27π8is",
+	"option1": "1",
+	"option2": "3\n2",
+	"option3": "2",
+	"option4": "9\n4",
+	"correctAnswer": "2"
+}, {
+	"questionId": 123,
+	"questionText": "If112+122+132+ .... upto ∞ \u003dπ26, then the value of112+132+152+ .... upto ∞ is",
+	"option1": "π2\n8",
+	"option2": "π2\n16",
+	"option3": "π2\n12",
+	"option4": "π2\n36",
+	"correctAnswer": "π2"
+}, {
+	"questionId": 124,
+	"questionText": "A man is known to speak the truth on an average 4 out of 5 times. He throws a die and reports that it is a five. The probability that it is actually a five is",
+	"option1": "4\n9",
+	"option2": "5\n9",
+	"option3": "4\n15",
+	"option4": "2\n15",
+	"correctAnswer": "4"
+}, {
+	"questionId": 125,
+	"questionText": "If log5log8(x2 - 1) \u003d 0, then a possible value of x is",
+	"option1": "2√2",
+	"option2": "√2",
+	"option3": "2",
+	"option4": "3",
+	"correctAnswer": "Choice D3"
+}, {
+	"questionId": 126,
+	"questionText": "Consider the following statements:(i) When 0 \u003c x \u003c 1, then11+x\u003c 1 - x + x2(ii) When 0 \u003c x \u003c 1, then11+x\u003e 1 - x + x2(iii) When -1 \u003c x \u003c 0, then11+x\u003c 1 - x + x2(iv) When -1 \u003c x \u003c 0, then11+x\u003e 1 - x + x2Then the correct statements are",
+	"option1": "(i) and (ii)",
+	"option2": "(ii) and (iv)",
+	"option3": "(i) and (iv)",
+	"option4": "(ii) and (iii)",
+	"correctAnswer": "(i) and (iv)"
+}, {
+	"questionId": 127,
+	"questionText": "Fifty litres of a mixture of milk and water contains 30 percent of water. This mixture is added to eighty litres of another mixture of milk and water that contains 20 percent of water. Then, how many litres of water should be added to the resulting mixture to obtain a final mixture that contains 25 percent of water?",
+	"option1": "1",
+	"option2": "2",
+	"option3": "3",
+	"option4": "4",
+	"correctAnswer": "2"
+}, {
+	"questionId": 128,
+	"questionText": "Three workers working together need 1 hour to construct a wall. The first worker, working alone, can construct the wall twice as fast at the third worker, and can complete the task an hour sooner than the second worker. Then, the average time in hours taken by the three workers, when working alone, to construct the wall is",
+	"option1": "√33+4\n3",
+	"option2": "√33+5\n3",
+	"option3": "√33+6\n3",
+	"option4": "√33+7\n3",
+	"correctAnswer": "√33+4"
+}, {
+	"questionId": 129,
+	"questionText": "In a class, students are assigned roll numbers from 1 to 140. All students with even roll numbers opted for cricket, all those whose roll numbers are divisible by 5 opted for football, and all those whose roll numbers are divisible by 3 opted for basketball. \u0027The number of students who did not opt for any of the three sports is",
+	"option1": "102",
+	"option2": "38",
+	"option3": "98",
+	"option4": "42",
+	"correctAnswer": "38"
+}, {
+	"questionId": 130,
+	"questionText": "Given f(x) \u003d x2 + log3x and g(y) \u003d 2y + f(y), then the value of g(3) equals",
+	"option1": "16",
+	"option2": "15",
+	"option3": "25",
+	"option4": "26",
+	"correctAnswer": "16"
+}, {
+	"questionId": 131,
+	"questionText": "A 2 × 2 matrix is filled with four distinct integers randomly chosen from the set {1,2,3,4,5,6} Then the probability that the matrix generated in such a way is singular is",
+	"option1": "2\n45",
+	"option2": "1\n45",
+	"option3": "4\n15",
+	"option4": "1\n15",
+	"correctAnswer": "2"
+}, {
+	"questionId": 132,
+	"questionText": "Ashok started a business with a certain investment. After few months, Bharat joined him investing half amount of Ashok\u0027s initial investment. At the end of the first year, the total profit was divided between them in ratio 3:1 . Bharat joined Ashok after",
+	"option1": "2 months",
+	"option2": "3 months",
+	"option3": "4 months",
+	"option4": "6 months",
+	"correctAnswer": "4 months"
+}, {
+	"questionId": 133,
+	"questionText": "The average marks of 6 students in a test is 64 . All the students got different marks, one of the students ohtained 70 marks and all other students scored 40 or above. The maximum possible difference between the second highest and the second lowest marks is",
+	"option1": "50",
+	"option2": "54",
+	"option3": "57",
+	"option4": "58",
+	"correctAnswer": "54"
+}, {
+	"questionId": 134,
+	"questionText": "If an investor had Rs 36,00,000 to invest in any particular single stock, and she could buy the stock only on Monday and sell it off only on Fridav. then the stock she should buy on Monday to earn the maximum possible profit during the week is",
+	"option1": "Marico",
+	"option2": "HUL",
+	"option3": "ITC",
+	"option4": "Britannia",
+	"correctAnswer": "Marico"
+}, {
+	"questionId": 135,
+	"questionText": "If an investor planned to invest Rs 36,00,000 in purchasing the stocks of HUL on Monday, sell them off on Wednesday and use the entire proceeds to purchase the stocks of Britannia on the same day and sell them off again on Friday, then the total investment return during the week would be",
+	"option1": "2.80 percent",
+	"option2": "3.00 percent",
+	"option3": "3.20 percent",
+	"option4": "3.40 percent",
+	"correctAnswer": "3.20 percent"
+}, {
+	"questionId": 136,
+	"questionText": "The difference between the quoted buy and sell price of a stock is referred to as the spread of the stock. The average spread of the stocks is lowest on",
+	"option1": "Monday",
+	"option2": "Tuesday",
+	"option3": "Thursday",
+	"option4": "Friday",
+	"correctAnswer": "Monday"
+}, {
+	"questionId": 137,
+	"questionText": "A brokerage firm charges 0.1 percent trading commission on the value of shares bought or sold through its trading platform. If an investor bought 1000 shares of Britannia on Tuesday, and sold all of them on Thursday, then the total brokerage fee that will be charged from the investor is",
+	"option1": "6,125",
+	"option2": "6,126",
+	"option3": "6,127",
+	"option4": "6,128",
+	"correctAnswer": "6,126"
+}, {
+	"questionId": 138,
+	"questionText": "If you had decided to invest Rs.36,00,000 worth of ITC stocks on Monday, then the day of the week you should choose to sell the stocks to earn the maximum possible profit would be",
+	"option1": "Tuesday",
+	"option2": "Wednesday",
+	"option3": "Thursday",
+	"option4": "Friday",
+	"correctAnswer": "Friday"
+}, {
+	"questionId": 139,
+	"questionText": "The sum of the interior angles of a convex n-sided polygon is less than 2019∘. The maximum possible value of n is",
+	"correctAnswer": "13"
+}, {
+	"questionId": 140,
+	"questionText": "Suppose that a, b, and c are real numbers greater than 1. Then the value of11+loga2bca+11+logb2cab+11+logc2abcis",
+	"correctAnswer": "3"
+}, {
+	"questionId": 141,
+	"questionText": "A real-valued function f satisfies the relation f(x)f(y) \u003d f(2xy + 3) + 3f(x + y) - 3f(y) + 6y, for all real numbers x and y, then the value of f(8) is",
+	"correctAnswer": "19"
+}, {
+	"questionId": 142,
+	"questionText": "Let A, B, C be three 4 X 4 matrices such that det A \u003d 5, det B \u003d -3, and det C \u003d12. Then the det (2AB-1C3BT) is",
+	"correctAnswer": "10"
+}, {
+	"questionId": 143,
+	"questionText": "If A is a 3 X 3 non-zero matrix such that A2 \u003d 0 then determinant of [(1 + A)2 - 50A] is equal to",
+	"correctAnswer": "3"
+}, {
+	"questionId": 144,
+	"questionText": "Three friends divided some apples in the ratio 3 : 5 : 7 among themselves. After consuming 16 apples they found that the remaining number of apples with them was equal to largest number of apples received by one of them at the beginning. Total number of apples these friends initially had was",
+	"correctAnswer": "30"
+}, {
+	"questionId": 145,
+	"questionText": "A shopkeeper reduces the price of a pen by 25% as a result of which the sales quantity increased by 20%. If the revenue made by the shopkeeper decreases by x% then x is",
+	"correctAnswer": "10"
+}, {
+	"questionId": 146,
+	"questionText": "For all real values of x,3x2−6x+12x2+2x+4lies between 1 and k, and does not take any value above k. Then k equals",
+	"correctAnswer": "9"
+}, {
+	"questionId": 147,
+	"questionText": "The maximum distance between the point (-5, 0) and a point on the circle x2 + y2 \u003d 4 is",
+	"correctAnswer": "7"
+}, {
+	"questionId": 148,
+	"questionText": "If x, y, z are positive real numbers such that x12 \u003d y16 \u003d z24,and the three quantities 3logyx, 4logzy, nlogxz are in arithmetic progression, then the value of n is",
+	"correctAnswer": "16"
+}, {
+	"questionId": 149,
+	"questionText": "The number of pairs (x, y) satisfying the equation sinx + siny \u003d sin(x + y) and |x| + |y| \u003d 1 is",
+	"correctAnswer": "6"
+}, {
+	"questionId": 150,
+	"questionText": "The circle x2 + y2 - 6x - 10y + k \u003d 0 does not touch or intersect the coordinate axes. If the point (1, 4) does not lie outside the circle, and the range of k is (a, b] then a + b is",
+	"correctAnswer": "54"
+}, {
+	"questionId": 151,
+	"questionText": "If a 3 X 3 matrix is filled with +1 \u0027s and - 1 \u0027s such that the sum of each row and column of the matrix is 1, then the absolute value of its determinant is",
+	"correctAnswer": "4"
+}, {
+	"questionId": 152,
+	"questionText": "Let the set \u003d {2,3,4,..., 25}. For each k ∈ P, define Q(k)\u003d {x ∈ P such that x \u003e k and k divides x}. Then the number of elements in the set P−U25k\u003d2Q(k) is",
+	"correctAnswer": "9"
+}, {
+	"questionId": 153,
+	"questionText": "The number of whole metallic tiles that can be produced by melting and recasting a circular metallic plate, if each of the tiles has a shape of a right-angled isosceles triangle and the circular plate has a radius equal in length to the longest side of the tile (Assume that the tiles and plate are of uniform thickness, and there is no loss of material in the melting and recasting process) is",
+	"correctAnswer": "12"
+}, {
+	"questionId": 154,
+	"questionText": "If |x|\u003c100and |y|\u003c100, then the number of integer solutions of (x, y) satisfying the equation 4x + 7y \u003d 3 is",
+	"correctAnswer": "29"
+}, {
+	"questionId": 155,
+	"questionText": "The average of five distinct integers is 110 and the smallest number among them is 100. The maximum possible value of the largest integer is",
+	"correctAnswer": "144"
+}, {
+	"questionId": 156,
+	"questionText": "Assume that all positive integers are written down consecutively from left to right as in 1234567891011...... The 6389th digit in this sequence is",
+	"correctAnswer": "4"
+}, {
+	"questionId": 157,
+	"questionText": "The number of pairs of integers whose sums are equal to their products is",
+	"correctAnswer": "2"
+}, {
+	"questionId": 158,
+	"questionText": "You have been asked to select a positive integer N which is less than 1000 , such that it is either a multiple of 4, or a multiple of 6, or an odd multiple of 9. The number of such numbers is",
+	"correctAnswer": "388"
+}, {
+	"questionId": 159,
+	"questionText": "If the compound interest earned on a certain sum for 2 years is twice the amount of simple interest for 2 years, then the rate of interest per annum is _______ percent",
+	"option1": "200%",
+	"option2": "2%",
+	"option3": "4%",
+	"option4": "400%",
+	"correctAnswer": "200%"
+}, {
+	"questionId": 160,
+	"questionText": "The maximum value of the natural number n for which 21n divides 50! is",
+	"option1": "6",
+	"option2": "7",
+	"option3": "8",
+	"option4": "9",
+	"correctAnswer": "8"
+}, {
+	"questionId": 161,
+	"questionText": "The remainder when 292929is divided by 9 is",
+	"option1": "1",
+	"option2": "2",
+	"option3": "3",
+	"option4": "4",
+	"correctAnswer": "2"
+}, {
+	"questionId": 162,
+	"questionText": "Placing which of the following two digits at the right end of 4530 makes the resultant six digit number divisible by 6,7 and 9?",
+	"option1": "96",
+	"option2": "78",
+	"option3": "42",
+	"option4": "54",
+	"correctAnswer": "96"
+}, {
+	"questionId": 163,
+	"questionText": "In a school 70% of the boys like cricket and 50% like football. If x% like both Cricket and Football, then",
+	"option1": "20 ≤ x ≤ 50",
+	"option2": "x ≤ 20",
+	"option3": "x ≥ 50",
+	"option4": "10 ≤ x ≤ 70",
+	"correctAnswer": "20 ≤ x ≤ 50"
+}, {
+	"questionId": 164,
+	"questionText": "In a class of 65 students 40 like cricket, 25 like football and 20 like hockey. 10 students like both cricket and football, 8 students like football and hockey and 5 students like all three sports. If all the students like at least one sport, then the number of students who like both cricket and hockey is",
+	"option1": "7",
+	"option2": "8",
+	"option3": "10",
+	"option4": "12",
+	"correctAnswer": "7"
+}, {
+	"questionId": 165,
+	"questionText": "If x ∈ (a, b) satisfies the inequalityx−3x2+3x+2≥1,then the largest possible value of b - a is",
+	"option1": "3",
+	"option2": "1",
+	"option3": "2",
+	"option4": "No real values of x satisfies the inequality",
+	"correctAnswer": "1"
+}, {
+	"questionId": 166,
+	"questionText": "If a, b, c are real numbers a2 + b2 + c2 \u003d 1, then the set of values ab + bc + ca can take is:",
+	"option1": "[-1,2]",
+	"option2": "[-\n1\n2\n, 2]",
+	"option3": "[-1,1]",
+	"option4": "[-\n1\n2\n, 1]",
+	"correctAnswer": "[-"
+}, {
+	"questionId": 167,
+	"questionText": "The inequality log23x−12−x\u003c1holds true for",
+	"option1": "x ∈ (\n1\n3\n, 1)",
+	"option2": "x ∈ (\n1\n3\n, 2)",
+	"option3": "x ∈ (0,\n1\n3\n) ∪ (1,2)",
+	"option4": "x ∈ (-∞, 1)",
+	"correctAnswer": "x ∈ ("
+}, {
+	"questionId": 168,
+	"questionText": "The set of values of x which satisfy the inequality 0.72x2 - 3x + 4 \u003c 0.343 is",
+	"option1": "(\n1\n2\n, 1)",
+	"option2": "(\n1\n2\n, ∞)",
+	"option3": "(-∞,\n1\n2\n)",
+	"option4": "(-∞,\n1\n2\n) ∪ (1, ∞)",
+	"correctAnswer": "(-∞,"
+}, {
+	"questionId": 169,
+	"questionText": "A chord is drawn inside a circle, such that the length of the chord is equal to the radius of the circle. Now, two circles are drawn, one on each side of the chord, each touching the chord at its midpoint and the original circle. Let k be the ratio of the areas of the bigger inscribed circle and the smaller inscribed circle, then k equals",
+	"option1": "(2 + √3)",
+	"option2": "(1 + √2)",
+	"option3": "(7 + 4√3)",
+	"option4": "(97 + 56√3)",
+	"correctAnswer": "(97 + 56√3)"
+}, {
+	"questionId": 170,
+	"questionText": "Points P, Q, R and S are taken on sides AB, BC, CD and DA of square ABCD respectively, so that AP : PB \u003d BQ : QC \u003d CR : RD \u003d DS : SA \u003d 1 : n . Then the ratio of the area of PQRS to the area of ABCD is",
+	"option1": "1 : (1 + n)",
+	"option2": "1 : n",
+	"option3": "1 + n2 : (1 + n)2",
+	"option4": "(1 + n ) : (1 + n2)",
+	"correctAnswer": "1 + n2 : (1 + n)2"
+}, {
+	"questionId": 171,
+	"questionText": "On a circular path of radius 6 m a boy starts from a point A on the circumference and walks along a chord AB of length 3 m. He then walks along another chord BC of length 2 m to reach point C. The point B lies on the minor arc AC. The distance between point C from point A is",
+	"option1": "√\n15\n+\n√\n35\n2\nm",
+	"option2": "8 m",
+	"option3": "√13 m",
+	"option4": "6 m",
+	"correctAnswer": "√"
+}, {
+	"questionId": 172,
+	"questionText": "The area enclosed by the curve 2|x| + 3|y| \u003d 6 is",
+	"option1": "12 square units",
+	"option2": "3 square units",
+	"option3": "4 square units",
+	"option4": "24 square units",
+	"correctAnswer": "12 square units"
+}, {
+	"questionId": 173,
+	"questionText": "Two points on a ground are 1 m apart. If a cow moves in the field in such a way that it\u0027s distance from the two points is always in ratio 3: 2 then",
+	"option1": "the cow moves in a straight line",
+	"option2": "the cow moves in a circle",
+	"option3": "the cow moves in a parabola",
+	"option4": "the cow moves in a hyperbola",
+	"correctAnswer": "the cow moves in a circle"
+}, {
+	"questionId": 174,
+	"questionText": "Given that cos x + cos y \u003d 1, the range of sin x - sin y is",
+	"option1": "[-1, 1]",
+	"option2": "[-2, 2]",
+	"option3": "[0, √3]",
+	"option4": "[-√3, √3]",
+	"correctAnswer": "[-√3, √3]"
+}, {
+	"questionId": 175,
+	"questionText": "If sinθ+cosθ\u003dm,then sin6θ+cos6θequals",
+	"option1": "3(m2+1)\n4",
+	"option2": "3(m2−1)\n4",
+	"option3": "1−\n3(m2−1)\n4",
+	"option4": "1−\n3(m2−1)2\n4",
+	"correctAnswer": "1−"
+}, {
+	"questionId": 176,
+	"questionText": "If inverse of the matrix [2 −0.5−1 x] is [1 12 4], then the value of x is",
+	"option1": "0.5",
+	"option2": "1",
+	"option3": "2",
+	"option4": "3",
+	"correctAnswer": "0.5"
+}, {
+	"questionId": 177,
+	"questionText": "The function f(x) \u003dx3−5x2−8x3is",
+	"option1": "positive and monotonically increasing for x ∈(−∞,\n5−\n√\n57\n2\n) and x ∈(\n5+\n√\n57\n2\n,+∞\n)",
+	"option2": "negative and monotonically decreasing for x ∈(−∞,\n5−\n√\n57\n2\nand x ∈(\n5+\n√\n57\n2\n,+∞\n)",
+	"option3": "negative and monotonically increasing for x ∈(−∞,\n5−\n√\n57\n2\n) and positive and monotonically increasing for x ∈(\n5+\n√\n57\n2\n,+∞\n)",
+	"option4": "positive and monotonically increasing for x ∈(−∞,\n5−\n√\n57\n2\n) and negative and monotonically decreasing for x ∈(\n5+\n√\n57\n2\n,+∞\n)",
+	"correctAnswer": "negative and monotonically increasing for x ∈(−∞,"
+}, {
+	"questionId": 178,
+	"questionText": "For a \u003e b \u003e c \u003e 0, the minimum value of the function f(x) \u003d |x - a| + |x - b| + |x - c| is",
+	"option1": "2a - b - c",
+	"option2": "a + b - 2c",
+	"option3": "a + b + c",
+	"option4": "a - c",
+	"correctAnswer": "a - c"
+}, {
+	"questionId": 179,
+	"questionText": "Let α,βbe the roots of x2 - x + p \u003d 0 and γ,δbe the roots of x2 - 4x + q \u003d 0 where p and q are integers. If α,β,γ,δare in geometric progression then p + q is",
+	"option1": "-34",
+	"option2": "30",
+	"option3": "26",
+	"option4": "-38",
+	"correctAnswer": "-34"
+}, {
+	"questionId": 180,
+	"questionText": "If (1 + x - 2x2)6 \u003d A0+∑12r\u003d1Arxr, then value of A2+A4+A6+⋯+A12is",
+	"option1": "31",
+	"option2": "32",
+	"option3": "30",
+	"option4": "29",
+	"correctAnswer": "31"
+}, {
+	"questionId": 181,
+	"questionText": "The number of terms common to both the arithmetic progressions 2,5,8,11,...., 179 and 3,5,7,9,....., 101 is",
+	"option1": "17",
+	"option2": "16",
+	"option3": "19",
+	"option4": "15",
+	"correctAnswer": "17"
+}, {
+	"questionId": 182,
+	"questionText": "From a pack of 52 cards, we draw one by one, without replacement. If f(n) is the probability that an Ace will appear at the nth turn, then",
+	"option1": "f(2) \u003d\n1\n13\n\u003e f(3)",
+	"option2": "1\n13\n\u003e f(2) \u003e f(3)",
+	"option3": "f(3) \u003e f(2) \u003d\n1\n13",
+	"option4": "f(2) \u003d f(3) \u003d\n1\n13",
+	"correctAnswer": "f(2) \u003d f(3) \u003d"
+}, {
+	"questionId": 183,
+	"questionText": "A die is thrown three times and the sum of the three numbers is found to be 15. The probability that the first throw was a four is",
+	"option1": "1\n6",
+	"option2": "1\n4",
+	"option3": "1\n5",
+	"option4": "1\n10",
+	"correctAnswer": "1"
+}, {
+	"questionId": 184,
+	"questionText": "In a given village there are only three sizes of families: families with 2 members, families with 4 members and families with 6 members. The proportion of families with 2,4 and 6 members are roughly equal. A poll is conducted in this village wherein a person is chosen at random and asked about his/her family size. The average family size computed by sampling 1000 such persons from the village would be closest to",
+	"option1": "4",
+	"option2": "4.667",
+	"option3": "4.333",
+	"option4": "3.667",
+	"correctAnswer": "4.667"
+}, {
+	"questionId": 185,
+	"questionText": "The value of log330−1+log4900−1+log530−1is",
+	"option1": "0.5",
+	"option2": "30",
+	"option3": "2",
+	"option4": "1",
+	"correctAnswer": "1"
+}, {
+	"questionId": 186,
+	"questionText": "The inequality logaf(x)\u003clogag(x)implies that",
+	"option1": "f(x) \u003e g(x) \u003e 0 for 0 \u003c a \u003c 1 and g(x) \u003e f(x) \u003e 0 for a \u003e 1",
+	"option2": "g(x) \u003e f(x) \u003e 0 for 0 \u003c a \u003c 1 and f(x) \u003e g(x) \u003e 0 for a \u003e 1",
+	"option3": "f(x) \u003e g(x) \u003e 0 for a \u003e 0",
+	"option4": "g(x) \u003e f(x) \u003e 0 for a \u003e 0",
+	"correctAnswer": "f(x)\u003eg(x)\u003e0"
+}, {
+	"questionId": 187,
+	"questionText": "Three cubes with integer edge lengths are given. It is known that the sum of their surface areas is 564 cm2 Then the possible values of the sum of their volumes are",
+	"option1": "764 cm3 and 586 cm3",
+	"option2": "586 cm3and 564 cm3",
+	"option3": "764 cm3 and 564 cm3",
+	"option4": "586 cm3 and 786 cm3",
+	"correctAnswer": "764 cm3 and 586 cm3"
+}, {
+	"questionId": 188,
+	"questionText": "Determine the greatest number among the following four numbers",
+	"option1": "2300",
+	"option2": "3200",
+	"option3": "2100 + 3100",
+	"option4": "4100",
+	"correctAnswer": "3200"
+}, {
+	"questionId": 189,
+	"questionText": "The number of points, having both co-ordinates as integers, that lie in the interior of the triangle with vertices (0, 0), (0, 31), and (31, 0) is",
+	"option1": "435",
+	"option2": "465",
+	"option3": "450",
+	"option4": "464",
+	"correctAnswer": "435"
+}, {
+	"questionId": 190,
+	"questionText": "Two small insects, which are x metres apart, take u minutes to pass each other when they are flying towards each other, and v minutes to meet each other when they are flying in the same direction. Then, the ratio of the speed of the slower insect to that of the faster insect is",
+	"option1": "u\nv",
+	"option2": "u\nv−u",
+	"option3": "v−u\nv+u",
+	"option4": "u\nv+u",
+	"correctAnswer": "v−u"
+}, {
+	"questionId": 191,
+	"questionText": "An alloy P has copper and zinc in the proportion of 5: 2 (by weight), while another alloy Q has the same metals in the proportion of 3: 4 (by weight). If these two alloys are mixed in the proportion of a : b (by weight), a new alloy R is formed, which has equal contents of copper and zinc. Then, the proportion of copper and zinc in the alloy S, formed by mixing the two alloys P and Q in the proportion of b : a (by weight) is",
+	"option1": "7 : 9",
+	"option2": "9 : 7",
+	"option3": "9 : 5",
+	"option4": "5 : 9",
+	"correctAnswer": "9 : 5"
+}, {
+	"questionId": 192,
+	"questionText": "How many different numbers can be formed by using only the digits 1 and 3 which are smaller than 3000000 ?",
+	"option1": "64",
+	"option2": "128",
+	"option3": "190",
+	"option4": "254",
+	"correctAnswer": "190"
+}, {
+	"questionId": 193,
+	"questionText": "There are numbners a1,a2,a3,…,aneach of them being +1 or -1. If it is known that a1a2+a2a3+a3a4+…an−1an+ana1\u003d0then",
+	"option1": "n is a multiple of 2 but not a multiple of 4",
+	"option2": "n is a multiple of 3",
+	"option3": "n can be any multiple of 4",
+	"option4": "The only possible value of n is 4",
+	"correctAnswer": "n can be any multiple of 4"
+}, {
+	"questionId": 194,
+	"questionText": "Average annual exports for the given period 2006-2017) was approximately",
+	"option1": "Rs. 230 Cr",
+	"option2": "Rs. 220 Cr",
+	"option3": "Rs. 210 Cr",
+	"option4": "Rs. 190 Cr",
+	"correctAnswer": "Rs. 220 Crr"
+}, {
+	"questionId": 195,
+	"questionText": "The percentage decline in exports during the period 2006-2011 is more than the percentage decline in exports during 2012-2017 by approximately",
+	"option1": "16.5",
+	"option2": "20.5",
+	"option3": "12.5",
+	"option4": "21.5",
+	"correctAnswer": "16.5"
+}, {
+	"questionId": 196,
+	"questionText": "The maximum difference between imports and exports is",
+	"option1": "Rs. 60 Cr",
+	"option2": "Rs. 110 Cr",
+	"option3": "Rs. 120 Cr",
+	"option4": "Rs. 100 Cr",
+	"correctAnswer": "Rs. 120 Cr"
+}, {
+	"questionId": 197,
+	"questionText": "Balance of trade is defined as imports subtracted from exports ( \u003d exports - imports). Which of the following blocks of three years has witnessed the largest average negative balance of trade?",
+	"option1": "2007-2009",
+	"option2": "2015-2017",
+	"option3": "2014-2016",
+	"option4": "2010-2012",
+	"correctAnswer": "2010-2012"
+}, {
+	"questionId": 198,
+	"questionText": "The percentage increase in imports over the previous year is maximum during",
+	"option1": "2009 to 2010",
+	"option2": "2010 to 2011",
+	"option3": "2013 to 2014",
+	"option4": "2008 to 2009",
+	"correctAnswer": "2009 to 2010"
+}, {
+	"questionId": 199,
+	"questionText": "Present sum of money amounts to Rs 800 in two years and to Rs 920 in three years, then the present sum of money is",
+	"option1": "420",
+	"option2": "690",
+	"option3": "560",
+	"option4": "None of the options",
+	"correctAnswer": "560"
+}, {
+	"questionId": 200,
+	"questionText": "Bhavani invested an amount of Rs. 13900 divided in two different schemes, A and B at the simple interest rate of 14% per annum and 11% per annum respectively if the total amount of simple interest earned in two year be Rs. 3508, what was the amount invested in Scheme B?",
+	"option1": "6400",
+	"option2": "6500",
+	"option3": "7200",
+	"option4": "7900",
+	"correctAnswer": "6400"
+}, {
+	"questionId": 201,
+	"questionText": "What is the square of root of 99999",
+	"option1": "316.23",
+	"option2": "316.22",
+	"option3": "316.21",
+	"option4": "316.20",
+	"correctAnswer": "316.22"
+}, {
+	"questionId": 202,
+	"questionText": "What is cube root of 55555",
+	"option1": "38.17",
+	"option2": "38.16",
+	"option3": "38.15",
+	"option4": "38.14",
+	"correctAnswer": "38.15"
+}, {
+	"questionId": 203,
+	"questionText": "In a factory there are three types of machines b1, b2, and b3 which produces 20%, 15%, and 32% of the total products respectively. Further, machines b1, b2, and b3 which produces 3%, 7%, and 2% defective products respectively. Find the percentage of non-defective products?",
+	"option1": "46%",
+	"option2": "30%",
+	"option3": "53%",
+	"option4": "64%",
+	"correctAnswer": "64%"
+}, {
+	"questionId": 204,
+	"questionText": "In a 1000 meter race Rishi beats Koustab by 50 meters. In the same race, by what time margin Koustab beat Pandey who runs at 4 meter per second?",
+	"option1": "100",
+	"option2": "50",
+	"option3": "75",
+	"option4": "60",
+	"correctAnswer": "Insufficient Data"
+}, {
+	"questionId": 205,
+	"questionText": "Guru and Chela walk around a circular path of 115 km in circumference, they start together from the same point. If they walk at speed of 4 and 5 kmph respectively, also they walk in the same direction, when will they meet?",
+	"option1": "After 115 hours",
+	"option2": "After 125 hours",
+	"option3": "After 120 hours",
+	"option4": "After 210 hours",
+	"correctAnswer": "After 115 hours"
+}, {
+	"questionId": 206,
+	"questionText": "Five racquets needs to be placed in three boxes. Each box can hold all the five racquets. In how many ways can the racquets be placed in the boxes so that no box can be empty if all racquets are different but all boxes are identical?",
+	"option1": "24",
+	"option2": "25",
+	"option3": "27",
+	"option4": "26",
+	"correctAnswer": "25"
+}, {
+	"questionId": 207,
+	"questionText": "How many signposts can be made using 6 different coloured symbols when any number of them can be posted at a time?",
+	"option1": "1988",
+	"option2": "1976",
+	"option3": "1966",
+	"option4": "1956",
+	"correctAnswer": "1956"
+}, {
+	"questionId": 208,
+	"questionText": "There are 12 copies of Beetles CDs, 7 copies of Pink Floyd CDs, 3 different CDs of Michael Jackson, and 2 different CDs of Madonna. Find the number of ways in which one or more than one CD can be selected?",
+	"option1": "3388",
+	"option2": "3376",
+	"option3": "3366",
+	"option4": "3327",
+	"correctAnswer": "3327"
+}, {
+	"questionId": 209,
+	"questionText": "Please calculate in how many ways can a platoon of sixteen soldiers be chosen out of a total of twenty soldiers for a surgical strike?",
+	"option1": "4845",
+	"option2": "4800",
+	"option3": "4855",
+	"option4": "4955",
+	"correctAnswer": "4845"
+}, {
+	"questionId": 210,
+	"questionText": "A box contains 2 white shirts, 3 black shirts, and 4 red shirts. In how many ways can 3 shirts be drawn from the box, if at least one black shirt is to be included in the draw?",
+	"option1": "60",
+	"option2": "40",
+	"option3": "64",
+	"option4": "82",
+	"correctAnswer": "64"
+}, {
+	"questionId": 211,
+	"questionText": "Can you calculate in how many ways can 7 tennis players can be seated in a circular order?",
+	"option1": "330",
+	"option2": "730",
+	"option3": "720",
+	"option4": "820",
+	"correctAnswer": "720"
+}, {
+	"questionId": 212,
+	"questionText": "Imagine that there are four hundred and fifty nine managers in a hotel. If the number of managers is enlarged by 36, the expenses of the food increased by Rs. eighty one per day while the average spending per head decreased by one. Find the original spending of the hotel on food?",
+	"option1": "7344",
+	"option2": "7244",
+	"option3": "7044",
+	"option4": "7444",
+	"correctAnswer": "7344"
+}, {
+	"questionId": 213,
+	"questionText": "The average age of a group of 9 friends is 22 years. LAVGIR is the youngest and his age is 6 years, then what happened to be the average age of the family just before LAVGIR was born?",
+	"option1": "18",
+	"option2": "7",
+	"option3": "20",
+	"option4": "24",
+	"correctAnswer": "18"
+}, {
+	"questionId": 214,
+	"questionText": "The height of nineteen people of comic book is in Arithmetic progression. The average height of them is 19 feet. If the tallest is 37 feet. Then what is the weight of the shortest?",
+	"option1": "2",
+	"option2": "1",
+	"option3": "3",
+	"option4": "4",
+	"correctAnswer": "1"
+}, {
+	"questionId": 215,
+	"questionText": "Average stipend of summer internship of an institute is Rs. 20000 per month. Recently the institute announced increment of Rs. 2000 per month for all the students. The new average stipend of students will now be?",
+	"option1": "22000",
+	"option2": "23000",
+	"option3": "24000",
+	"option4": "25000",
+	"correctAnswer": "22000"
+}, {
+	"questionId": 216,
+	"questionText": "The average presence of employees of a company for yoga sessions in an office on Monday, Tuesday and Wednesday is thirty two and on the Wednesday, Thursday, Friday and Saturday is thirty. If the average number of employees on all the six days is twenty six then the number of employees who attended the sessions on Wednesday is?",
+	"option1": "38",
+	"option2": "40",
+	"option3": "60",
+	"option4": "64",
+	"correctAnswer": "60"
+}, {
+	"questionId": 217,
+	"questionText": "The average spending of Lata Mangeshkar for the part of week from Monday to Saturday is Rs. 4200. She spent Rs. 1200 on Monday and Rs. 1500 on Sunday that week. The average spending for the part of week from Tuesday to Sunday that week is?",
+	"option1": "4100",
+	"option2": "4200",
+	"option3": "4250",
+	"option4": "4300",
+	"correctAnswer": "4250"
+}, {
+	"questionId": 218,
+	"questionText": "Please calculate in how many ways can a set of five players be formed out of a total of ten players such that two particular players should be involved in each set?",
+	"option1": "60",
+	"option2": "72",
+	"option3": "56",
+	"option4": "75",
+	"correctAnswer": "56"
+}]
